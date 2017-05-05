@@ -1,0 +1,17 @@
+{
+  "name": "notificaiton-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "s729153 <s729153@emirates.com> (http://example.com)",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.24",
+    "ws": "^2.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
